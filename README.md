@@ -35,5 +35,4 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 
 ---
 
-Feel free to explore my repositories! 
-If you're interested in collaborating or discussing any cool coding challenges don't hesitate to reach out! 🚀
+Feel free to explore my repositories! If you're interested in collaborating or discussing any cool coding challenges, do reach out 🚀
