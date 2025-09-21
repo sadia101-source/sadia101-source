@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Sadia!
 
-<!--
-**sadia101-source/sadia101-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a **second-year B.Sc. Computer Science undergraduate** who aspires to become a **full-stack developer**. I'm passionate about:
 
-Here are some ideas to get you started:
+- Coding and problem-solving
+- Exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on mastering the computing fundamentals to support my academic research and internship opportunities.
+
+---
+
+### Languages :
+- **C** (Intermediate)
+- **Java** (Object-Oriented Programming)
+- **HTML** (Advanced)
+- **DBMS** (Database Management Systems)
+
+### Programming Concepts:
+- **Object-Oriented Programming** (OOP)
+- **Data Structures & Algorithms** (In C)
+- **Digital System Designing**
+
+### Developer Tools:
+- **GitHub**
+- **Replit**
+- **VS Code**
+- **Apache NetBeans**
+- **Dev C++**
+
+### Coursework:
+- Learning **Java**
+- Studying **Computer Architecture**
+- Exploring **Statistics** and **Mathematics** to strengthen logic-building skills for side projects in **Web Development**
+
+---
+
+Feel free to explore my repositories! If you're interested in collaborating or discussing any cool coding challenges don't hesitate to reach out! 🚀
