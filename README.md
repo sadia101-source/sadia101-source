@@ -21,13 +21,6 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 - **Data Structures & Algorithms** (In C)
 - **Digital System Designing**
 
-### Developer Tools:
-- **GitHub**
-- **Replit**
-- **VS Code**
-- **Apache NetBeans**
-- **Dev C++**
-
 ### Coursework:
 - Learning **Java**
 - Studying **Computer Architecture**
