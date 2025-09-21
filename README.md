@@ -11,14 +11,14 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 ---
 
 ### Languages :
-- **C** (Intermediate)
+- **C++** (Intermediate)
 - **Java** (Object-Oriented Programming)
 - **HTML** (Advanced)
 - **DBMS** (Database Management Systems)
 
 ### Programming Concepts:
 - **Object-Oriented Programming** (OOP)
-- **Data Structures & Algorithms** (In C)
+- **Data Structures & Algorithms** (In C++)
 - **Digital System Designing**
 
 ### Coursework:
