@@ -11,10 +11,8 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 ---
 
 ### Languages :
-- **C++** (Intermediate)
-- **Java** (Object-Oriented Programming)
-- **HTML** (Advanced)
-- **DBMS** (Database Management Systems)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### Programming Concepts:
 - **Object-Oriented Programming** (OOP)
