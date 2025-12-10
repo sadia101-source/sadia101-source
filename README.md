@@ -40,6 +40,7 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 - Exploring **Statistics** and **Mathematics** to strengthen logic-building skills for side projects in **Web Development**
 
 ---
+<img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
 
 Feel free to explore my repositories!
 ---
