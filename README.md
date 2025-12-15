@@ -57,7 +57,7 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 
 ### Programming Concepts:
 - **Object-Oriented Programming** (OOP)
-- **Data Structures & Algorithms** (In C++)
+- **Data Structures & Algorithms** (In C)
 - **Digital System Designing**
 
 ### Coursework:
