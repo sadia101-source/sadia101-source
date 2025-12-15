@@ -67,8 +67,12 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 
 ---
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadia-zafreen-067295330)
+<a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
+  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="100">
+</a>
+
 ---
+
 <img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
 
 Feel free to explore my repositories!
