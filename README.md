@@ -70,7 +70,9 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 <a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
   <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="100">
 </a>
-
+<a href="sadiazafreen525@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://i.pinimg.com/originals/80/b4/c8/80b4c8eca5291255732a9d4e3eeb8826.gif" width="100">
+</a>
 ---
 
 <img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
