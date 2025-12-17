@@ -41,11 +41,11 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="100">
 </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</a>
 <a href="https://react.dev" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
