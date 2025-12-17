@@ -66,7 +66,7 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 ### Coursework:
 - Learning **Java**
 - Studying **Computer Architecture**
-- Exploring **Statistics** and **Mathematics** to strengthen logic-building skills for side projects in **Web Development**
+- Exploring **Statistics** and **Mathematics** to strengthen logic-building skills for side projects in **Web Development**.
 
 ---
 ### 🌐 Socials:
