@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Sadia!
 
 ## About Me
-I am a **second-year B.Sc. Computer Science undergraduate**. I'm passionate about:
+I am a **third year - B.Sc. Computer Science undergraduate**. I'm passionate about:
 
 - Coding and problem-solving
 - Exploring new technologies
