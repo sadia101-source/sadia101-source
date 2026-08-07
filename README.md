@@ -69,7 +69,7 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 ---
 ### 🌐 Socials:
 <a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
-  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="100">
+  <img src="https://cdn.prod.website-files.com/623f7bca01c43b08d527387a/627537ba7a752434f0eba421_linkedinnnnnn.gif" width="100">
 </a>
 <a href="mailto:sadiazafreen525@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://assets-v2.lottiefiles.com/a/ea5dbdc4-be9e-11ef-b62d-3feedb4c790f/6o0CUGBnfk.gif" width="100">
