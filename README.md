@@ -20,6 +20,9 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies.png" width="100">
+</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </a>
