@@ -1,7 +1,7 @@
-<center><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="hello"></center>
+<div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="hello">
 
 # 👋 Hey, I'm Sadia!
-
+</div>
 ## About Me
 I am a **third year - B.Sc. Computer Science undergraduate**. I'm passionate about:
 
