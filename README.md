@@ -38,9 +38,6 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="100">
-</a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </a>
