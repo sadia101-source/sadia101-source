@@ -68,6 +68,7 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 
 ---
 ### 🌐 Socials:
+portfolio: https://xp-desktop-portfolio.vercel.app/
 <a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
   <img src="https://cdn.prod.website-files.com/623f7bca01c43b08d527387a/627537ba7a752434f0eba421_linkedinnnnnn.gif" width="100">
 </a>
