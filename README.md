@@ -56,16 +56,6 @@ Currently, I'm focusing on mastering the computing fundamentals to support my ac
 </a>
 </div>
 
-### Programming Concepts:
-- **Object-Oriented Programming** (OOP)
-- **Data Structures & Algorithms** (In C)
-- **Digital System Designing**
-
-### Coursework:
-- Learning **Java**
-- Studying **Computer Architecture**
-- Exploring **Statistics** and **Mathematics** to strengthen logic-building skills for side projects in **Web Development**.
-
 ---
 ### 🌐 Socials:
 <a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
