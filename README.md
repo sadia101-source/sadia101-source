@@ -9,9 +9,8 @@ I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambit
 - Coding and problem-solving
 - Exploring new technologies
 
-Beyond academics, I spend my time building side projects, contributing to open source, and exploring new tools and technologies that challenge me to keep learning and improving.
-
-Currently, I'm focusing on mastering the computing fundamentals to support my academic research and internship opportunities.
+Currently, I'm focusing on mastering the computing fundamentals to support my academic research 
+and internship opportunities ^_^
 
 ---
 
