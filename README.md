@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="700" alt="hello">
 
 
-# Hey, I'm Sadia Zafreen! <img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" width="100">
+# 👋 Hey, I'm Sadia Zafreen! <img src="https://i.pinimg.com/originals/51/04/43/51044308bbd09742b8f5e029971dab21.gif" width="100">
 </div>
 
 ## About Me
