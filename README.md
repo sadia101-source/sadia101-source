@@ -1,9 +1,7 @@
 <div align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="700" alt="hello">
 </div>
 <div>
-<a target="_blank" rel="noreferrer">
-  <img src="https://i.pinimg.com/originals/f3/c6/e5/f3c6e525a07ef2b1e279f9212e535333.gif" width="100">
-</a> Hey, I'm Sadia Zafreen!
+<img src="https://i.pinimg.com/originals/f3/c6/e5/f3c6e525a07ef2b1e279f9212e535333.gif" width="100"> Hey, I'm Sadia Zafreen!
 </div>
 
 ## About Me
