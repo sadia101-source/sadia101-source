@@ -14,7 +14,7 @@ and internship opportunities .☘︎ ݁˖
 
 ---
 
-## <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="50" width="50"> Tech-stack/Languages :
+## Tech-stack/Languages :
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
@@ -58,7 +58,7 @@ and internship opportunities .☘︎ ݁˖
 </div>
 
 ---
-### <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="50" width="50"> Socials:
+### 🌐 Socials:
 <a href="https://www.linkedin.com/in/sadia-zafreen-067295330" target="_blank" rel="noreferrer">
   <img src="https://cdn.prod.website-files.com/623f7bca01c43b08d527387a/627537ba7a752434f0eba421_linkedinnnnnn.gif" width="100">
 </a>
