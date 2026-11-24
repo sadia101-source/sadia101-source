@@ -3,7 +3,7 @@
 # Hey, I'm Sadia Zafreen! <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100">
 </div>
 
-## <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="50" width="50"> <sup>About Me</sup>
+## <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="50" width="50"> About Me
 I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambition to become a full-stack developer who solves real problems and creates meaningful impact. I'm passionate about:
 
 - Coding and problem-solving
@@ -14,7 +14,7 @@ and internship opportunities .☘︎ ݁˖
 
 ---
 
-## Tech-stack/Languages :
+## <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="50" width="50"> Tech-stack/Languages :
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
