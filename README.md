@@ -14,7 +14,7 @@ and internship opportunities .☘︎ ݁˖
 
 ---
 
-## Tech-stack/Languages :
+## 🤖 Tech-stack/Languages :
 <div align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
