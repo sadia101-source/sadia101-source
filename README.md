@@ -4,13 +4,13 @@
 </div>
 
 ## ✿ About Me ✿
-I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambition to become a full-stack developer who builds technology that solves real problems and creates meaningful impact. I'm passionate about:
+I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambition to become a full-stack developer who solves real problems and creates meaningful impact. I'm passionate about:
 
 - Coding and problem-solving
 - Exploring new technologies
 
 Currently, I'm focusing on mastering the computing fundamentals to support my academic research 
-and internship opportunities ^_^
+and internship opportunities 𑣲⋆.☘︎ ݁˖
 
 ---
 
