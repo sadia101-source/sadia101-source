@@ -3,7 +3,7 @@
 # Hey, I'm Sadia Zafreen! <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100">
 </div>
 
-## ✿ About Me ✿
+## ✿ About Me ✿ 
 I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambition to become a full-stack developer who solves real problems and creates meaningful impact. I'm passionate about:
 
 - Coding and problem-solving
@@ -70,7 +70,7 @@ and internship opportunities .☘︎ ݁˖
 
 <img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
 
-Feel free to explore my repositories! 
+Feel free to explore my repositories! <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="40" width="40">
 ---
 
 ![snake gif](https://github.com/sadia101-source/sadia101-source/blob/output/github-snake-dark.svg)
