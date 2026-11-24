@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261124T120013Z&X-Amz-Expires=300&X-Amz-Signature=4084a3acd7e45f9bc4a3f4452f317fbd0f1e21d4261c43cf2e9517076670a720&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width="700" alt="hello">
 
-# <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100"> Hey, I'm Sadia Zafreen! <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100">
+# Hey, I'm Sadia Zafreen! <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100">
 </div>
 
 ## ✿ About Me ✿
@@ -70,7 +70,7 @@ and internship opportunities .☘︎ ݁˖
 
 <img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
 
-Feel free to explore my repositories! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-deer-icon-vector-illustration-design-logo-template-png-image_5223645.png" height="100" width="100">
+Feel free to explore my repositories! <img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-deer-icon-vector-illustration-design-logo-template-png-image_5223645.png" height="50" width="50">
 ---
 
 ![snake gif](https://github.com/sadia101-source/sadia101-source/blob/output/github-snake-dark.svg)
