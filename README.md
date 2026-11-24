@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261124T120013Z&X-Amz-Expires=300&X-Amz-Signature=4084a3acd7e45f9bc4a3f4452f317fbd0f1e21d4261c43cf2e9517076670a720&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width="700" alt="hello">
 
-# <img src="https://static.vecteezy.com/system/resources/thumbnails/043/974/897/small_2x/3d-rendering-of-a-deer-horns-on-transparent-background-png.png" height="100" width="100">  Hey, I'm Sadia Zafreen! 
+# Hey, I'm Sadia Zafreen! <img src="https://png.pngtree.com/png-vector/20241210/ourmid/pngtree-antlers--side-view--intricate-and-natural-png-image_14689312.png" width="100" height="100">
 </div>
 
 ## ✿ About Me ✿
