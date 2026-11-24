@@ -70,7 +70,7 @@ and internship opportunities .☘︎ ݁˖
 
 <img src="https://komarev.com/ghpvc/?username=sadia101-source&label=Profile%20views&color=0e75b6&style=flat" alt="sadia101-source" />
 
-Feel free to explore my repositories! <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="40" width="40">
+Feel free to explore my repositories! <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-stag-logo-vector-png-image_12531081.png" height="100" width="100">
 ---
 
 ![snake gif](https://github.com/sadia101-source/sadia101-source/blob/output/github-snake-dark.svg)
