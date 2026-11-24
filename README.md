@@ -10,7 +10,7 @@ I am a **third year - B.Sc. Computer Science undergraduate** with a strong ambit
 - Exploring new technologies
 
 Currently, I'm focusing on mastering the computing fundamentals to support my academic research 
-and internship opportunities 𑣲⋆.☘︎ ݁˖
+and internship opportunities .☘︎ ݁˖
 
 ---
 
