@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261124T120013Z&X-Amz-Expires=300&X-Amz-Signature=4084a3acd7e45f9bc4a3f4452f317fbd0f1e21d4261c43cf2e9517076670a720&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width="700" alt="hello">
 
-# Hey, I'm Sadia Zafreen! <img src="https://i.pinimg.com/originals/d5/87/f9/d587f9993bb9d6bd6fa1369bbd56bbfe.gif" width="100" height="100">
+# Hey, I'm Sadia Zafreen! <img src="https://allaboutcareerssite.com/wp-content/uploads/2016/06/customer_service_working_500_clr_18706.gif?w=174&h=174" width="100" height="100">
 </div>
 
 ## ✿ About Me ✿
