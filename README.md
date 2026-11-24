@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261124T120013Z&X-Amz-Expires=300&X-Amz-Signature=4084a3acd7e45f9bc4a3f4452f317fbd0f1e21d4261c43cf2e9517076670a720&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width="700" alt="hello">
 
-# Hey, I'm Sadia Zafreen! <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8jcaw-ef37237b-7f38-453b-bc45-851bf276df1a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83NzVkZmFlOS1mOWI1LTQ2YzktYmNkOC02MmU3ZDQwYmExNzcvZGc4amNhdy1lZjM3MjM3Yi03ZjM4LTQ1M2ItYmM0NS04NTFiZjI3NmRmMWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8UBnuQVmx0llegMz_COgoWljNSKAIysSJpmIgHH5AUw" width= "100">
+# Hey, I'm Sadia Zafreen! <img src="https://i.pinimg.com/originals/d5/87/f9/d587f9993bb9d6bd6fa1369bbd56bbfe.gif">
 </div>
 
 ## ✿ About Me ✿
